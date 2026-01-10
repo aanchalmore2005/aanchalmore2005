@@ -90,8 +90,10 @@ Undergraduate Computer Engineering Student (Third Year)
 
 
 <p align="center">
-<img src="https://nirzak-streak-stats.vercel.app/?user=aanchalmore2005&theme=dark&hide_border=true"/>
+<img src="https://nirzak-streak-stats.vercel.app/?user=aanchalmore2005&theme=omni&hide_border=true"/>
 </p>
+
+
 
 
 
@@ -102,4 +104,8 @@ Undergraduate Computer Engineering Student (Third Year)
 </p>
 
 ---
+
+
+[![](https://visitcount.itsvg.in/api?id=aanchalmore2005&icon=0&color=0)](https://visitcount.itsvg.in)
+
 
