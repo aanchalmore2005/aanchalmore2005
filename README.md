@@ -1,16 +1,112 @@
-# 💫 About Me:
-👋 Hi, I’m Aanchal More<br><br>I’m a Third-year Computer Engineering student passionate about full-stack web development, Machine Learning, and AI integration. I enjoy building interactive, responsive applications that seamlessly connect frontends and backends using React, Node.js, MongoDB, MySQL, Firebase, and ML technologies.<br><br>🔭 I’m currently working on<br>Swish – a MERN-based private social platform for campus users with posts, likes, comments, follows, and admin moderation.<br><br>👯 I’m looking to collaborate on<br>Full-stack web applications, MERN projects, social/community platforms, and ML-powered web apps.<br><br>🌱 I’m currently learning<br>Advanced React patterns, backend architecture, and applied AI/ML in real-world systems.<br><br>⚡ Fun fact<br>I love turning complex ideas and ML models into clean, intuitive, user-friendly interfaces 🚀.<br><br>📫 Let’s connect: I enjoy collaborating, learning new technologies, and building products that balance great UX, solid backend design, and intelligent systems.
+<h1 align="center"> I'm Aanchal More</h1>
 
+<h3 align="center">
+Full-Stack Developer ● MERN Stack Enthusiast ● ML & AI Explorer
+</h3>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aanchal-more-tech) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aanchalmore1321@gmail.com) 
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![JavaFX](https://img.shields.io/badge/javafx-%23FF0000.svg?style=for-the-badge&logo=javafx&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-
-
-### ✍️Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
+<p align="center">
+Undergraduate Computer Engineering Student (Third Year)
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=aanchalmore2005&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<p align="left">
+🔭 I’m currently working on <b>Swish</b> – a private social sharing platform for campus communities built using the MERN stack  
+</p>
+
+<p align="left">
+🔭 I’ve also worked on <b>Machine Learning projects</b> and explored AI model integration in web applications  
+</p>
+
+<p align="left">
+👯 I’m looking to collaborate on <b>full-stack web applications, MERN projects, and ML-powered platforms</b>  
+</p>
+
+<p align="left">
+📝 I enjoy building and documenting projects focused on <b>real-world problem solving</b> and <b>clean UI/UX</b>  
+</p>
+
+<p align="left">
+💬 Ask me about <b>React, Node.js, MongoDB, MySQL, Firebase, JWT authentication, and ML basics</b>  
+</p>
+
+<p align="left">
+⚡ Fun fact: I love turning complex backend logic and ML ideas into <b>simple, user-friendly interfaces</b> 🚀  
+</p>
+
+---
+
+<h2 align="center">🔗 Connect with me</h2>
+
+<p align="center">
+<a href="https://linkedin.com/in/aanchal-more-tech">
+<img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white"/>
+</a>
+<a href="mailto:aanchalmore1321@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white"/>
+</a>
+</p>
+
+---
+<h2 align="center">🛠 Languages and Tools</h2>
+
+<!-- Core Languages & Frameworks -->
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=c,html,css,js,java,python,react,nodejs,express,flask,firebase,mongodb,mysql,sqlite,docker,npm,vercel" />
+</p>
+
+<!-- Backend, Cloud & Auth -->
+
+<p align="center">
+<img src="https://img.shields.io/badge/JWT-black?style=flat-square&logo=JSON%20web%20tokens"/>
+<img src="https://img.shields.io/badge/Socket.io-black?style=flat-square&logo=socket.io"/>
+<img src="https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=flat-square&logo=google-cloud&logoColor=white"/>
+<img src="https://img.shields.io/badge/Render-%46E3B7.svg?style=flat-square&logo=render&logoColor=white"/>
+</p>
+
+<!-- Machine Learning & Data Science -->
+
+<p align="center">
+<img src="https://img.shields.io/badge/NumPy-%23013243.svg?style=flat-square&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat-square&logo=Matplotlib&logoColor=black"/>
+<img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat-square&logo=scikit-learn&logoColor=white"/>
+<img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat-square&logo=PyTorch&logoColor=white"/>
+<img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat-square&logo=TensorFlow&logoColor=white"/>
+</p>
+
+<!-- Design & Others -->
+
+<p align="center">
+<img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat-square&logo=Canva&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaFX-%23FF0000.svg?style=flat-square&logo=javafx&logoColor=white"/>
+<img src="https://img.shields.io/badge/Nodemon-%23323330.svg?style=flat-square&logo=nodemon&logoColor=%BBDEAD"/>
+</p>
+
+
+---
+
+<!-- <p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=aanchalmore2005&theme=dark&hide_border=true"/>
+</p> -->
+
+<p align="center">
+<img src="https://nirzak-streak-stats.vercel.app/?user=aanchalmore2005&theme=dark&hide_border=true"/>
+</p>
+
+<!-- <p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aanchalmore2005&theme=dark&hide_border=true&layout=compact"/>
+</p> -->
+
+---
+
+<p align="center">
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light"/>
+</p>
+
+---
+
+<p align="center">
+<img src="https://visitcount.itsvg.in/api?id=aanchalmore2005&icon=0&color=0"/>
+</p>
