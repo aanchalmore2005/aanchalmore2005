@@ -89,9 +89,9 @@ Undergraduate Computer Engineering Student (Third Year)
 
 
 
-<!-- <p align="center">
+<p align="center">
 <img src="https://nirzak-streak-stats.vercel.app/?user=aanchalmore2005&theme=omni&hide_border=true"/>
-</p> -->
+</p> 
 
 
 
