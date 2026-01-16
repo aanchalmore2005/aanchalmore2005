@@ -97,11 +97,11 @@ Undergraduate Computer Engineering Student (Third Year)
 
 
 
----
 
-<p align="center">
+
+<!-- <p align="center">
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light"/>
-</p>
+</p> -->
 
 ---
 
