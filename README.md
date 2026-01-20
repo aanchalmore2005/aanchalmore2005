@@ -11,12 +11,13 @@ Undergraduate Computer Engineering Student (Third Year)
 ---
 
 <p align="left">
-🔭 I’m currently working on <b>Swish</b> – a private social sharing platform for campus communities built using the MERN stack  
+🌱 I’m currently strengthening my <b>MERN stack</b> skills and exploring <b>Machine Learning</b> and <b>AI integration</b> to build intelligent and scalable web applications. 
 </p>
 
 <p align="left">
-🔭 I’ve also worked on <b>Machine Learning projects</b> and explored AI model integration in web applications  
+🚀 I built <b>Query Verse AI</b> using <b>Machine Learning and AI</b> to enable intelligent querying and smart responses, and developed <b>Swish</b> using the <b>MERN stack</b> as a private social sharing platform for campus communities.
 </p>
+
 
 <p align="left">
 👯 I’m looking to collaborate on <b>full-stack web applications, MERN projects, and ML-powered platforms</b>  
