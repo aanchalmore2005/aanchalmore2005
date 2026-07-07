@@ -11,29 +11,29 @@ Undergraduate Computer Engineering Student (Third Year)
 ---
 
 <p align="left">
-● ✨ I’m currently strengthening my <b>MERN stack</b> skills and exploring <b>Machine Learning</b> and <b>AI integration</b> to build  scalable web applications. 
+● I’m currently strengthening my <b>MERN stack</b> skills and exploring <b>Machine Learning</b> and <b>AI integration</b> to build  scalable web applications. 
 </p>
 
 <p align="left">
-● 🤖 Built <b>Query Verse AI</b> using <b>Machine Learning & AI</b> and developed <b>SWISH</b> using the <b>MERN stack</b> as a campus-focused social platform.
+● Built <b>Query Verse AI</b> using <b>Machine Learning & AI</b> and developed <b>SWISH</b> using the <b>MERN stack</b> as a campus-focused social platform.
 </p>
 
 
 
 <p align="left">
-● ⚓ I’m looking to collaborate on <b>full-stack web applications, MERN projects, and ML-powered platforms</b>  
+● I’m looking to collaborate on <b>full-stack web applications, MERN projects, and ML-powered platforms</b>  
 </p>
 
 <p align="left">
-● 🚀 I enjoy building and documenting projects focused on <b>real-world problem solving</b> and <b>clean UI/UX</b>  
+● I enjoy building and documenting projects focused on <b>real-world problem solving</b> and <b>clean UI/UX</b>  
 </p>
 
 <p align="left">
-● 💭 Ask me about <b>React, Node.js, MongoDB, MySQL, Firebase, JWT authentication, and ML basics</b>  
+● Ask me about <b>React, Node.js, MongoDB, MySQL, Firebase, JWT authentication, and ML basics</b>  
 </p>
 
 <p align="left">
-● ⚡Fun fact: I love turning complex backend logic and ML ideas into <b>simple, user-friendly interfaces</b> 
+● Fun fact: I love turning complex backend logic and ML ideas into <b>simple, user-friendly interfaces</b> 
 </p>
 
 ---
