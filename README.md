@@ -55,7 +55,7 @@ Undergraduate Computer Engineering Student (Third Year)
 <!-- Core Languages & Frameworks -->
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=c,html,css,js,java,python,react,nodejs,express,flask,firebase,mongodb,mysql,sqlite,docker,npm,vercel" />
+<img src="https://skillicons.dev/icons?i=c,html,css,js,java,python,react,nodejs,express,flask,firebase,mongodb,mysql,sqlite,npm,vercel" />
 </p>
 
 <!-- Backend, Cloud & Auth -->
